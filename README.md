@@ -1,6 +1,6 @@
 # How To Handle Frames In Playwright TypeScript
 
-This repository contains code to demo Python Playwright TypeScript 🎭 to hand iframe
+This repository contains code to demo handling of frames in Playwright TypeScript 🎭
 
 The entire testing was performed on local gird as well as [LambdaTest Cloud Grid](http://www.lambdatest.com?fp_ref=jaydeep88)
 ## Version Check
